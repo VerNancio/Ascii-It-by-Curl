@@ -1,0 +1,4 @@
+flask==3.0.2
+ascii==3.6
+colorama==0.4.6
+regex==2023.12.25
